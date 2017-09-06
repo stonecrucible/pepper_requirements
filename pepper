@@ -1,0 +1,17 @@
+#!/bin/bash
+
+IFS=$' \t\n';
+PATH="/bin:/usr/bin:/usr/local/bin:/sbin:/usr/sbin"
+
+while getopts ":f" opt; do
+  case $opt in
+    f)
+      fork_flag=true
+      shift
+    ;;
+    \?)
+      echo "Invalid option: -$OPTARG" >&2
+      ;;
+  esac
+done
+

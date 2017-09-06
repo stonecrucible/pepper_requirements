@@ -1,0 +1,11 @@
+Packages installed by user
+boost-1.60.0-10.fc25.x86_64
+boost-devel-1.60.0-10.fc25.x86_64
+cmake-3.8.0-3.fc25.x86_64
+doxygen-1:1.8.13-3.fc25.x86_64
+fcgi-2.4.0-29.fc24.x86_64
+fcgi-devel-2.4.0-29.fc24.x86_64
+gcc-c++-6.3.1-1.fc25.x86_64
+git-2.9.4-1.fc25.x86_64
+nginx-1:1.10.2-1.fc25.x86_64
+spawn-fcgi-1.6.3-10.fc24.x86_64
